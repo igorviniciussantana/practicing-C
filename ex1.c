@@ -1,6 +1,6 @@
-/*Receba dois nÃºmeros, calcule e mostre a divisÃ£o do primeiro nÃºmero pelo segundo.
-Sabe-se que o segundo nÃºmero nÃ£o pode ser zero, mas nÃ£o se preocupe em testar se
-o segundo nÃºmero Ã© zero. */
+/*Receba dois números, calcule e mostre a divisão do primeiro número pelo segundo.
+Sabe-se que o segundo número não pode ser zero, mas não se preocupe em testar se
+o segundo número é zero. */
 
 #include <stdlib.h>
 #include <stdio.h>
