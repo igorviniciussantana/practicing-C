@@ -1,15 +1,15 @@
-/*Receba o preço de um produto, aplique um desconto de 10% nesse preço e mostre o
-novo preço. */
+/*Receba o preÃ§o de um produto, aplique um desconto de 10% nesse preÃ§o e mostre o
+novo preÃ§o. */
 
 #include <stdlib.h>
 #include <stdio.h>
 
 int main(){
 
-float preco,desconto;
-printf("Digite o preço\n");
-scanf("%f", &preco);
-desconto = preco * 0.9;
-printf("O valor com desconto é : %f", desconto);
-return 0;
+  float preco,desconto;
+  printf("Digite o preÃ§o\n");
+  scanf("%f", &preco);
+  desconto = preco * 0.9;
+  printf("O valor com desconto Ã© : %.2f", desconto);
+  return 0;
 }
